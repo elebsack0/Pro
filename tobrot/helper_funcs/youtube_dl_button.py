@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K | gautamjay52 | MaxxRider
+# (c) NERO | Raj | RED
 
 import asyncio
 import json
